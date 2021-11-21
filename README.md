@@ -1,0 +1,1 @@
+This work is going to be a recomandation system that can work with ocssd parellel read.
